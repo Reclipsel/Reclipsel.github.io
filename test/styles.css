@@ -1,6 +1,7 @@
 img {
     width: 16%;
     height: 9%;
+    align-items: center;
 }
 
 p {
@@ -30,4 +31,13 @@ h1 {
     font-size: 0.1%;
     font-weight: bold;
     color: white;
+    text-align: bottom;
+}
+
+.moto {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    text-align: right;
 }
